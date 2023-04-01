@@ -1,9 +1,12 @@
 // ==UserScript==
 // @name         DontSpeakAbsWords
 // @namespace    https://github.com/IgarashiAkatuki/DontSpeakAbsWords
-// @version      0.3
+// @version      0.4
 // @description  黑话/缩写翻译站
 // @author       Jitsu
+// @homepage     https://github.com/anosu/DontSpeakAbsWords-UserScript
+// @downloadURL  https://fastly.jsdelivr.net/gh/anosu/DontSpeakAbsWords-UserScript@main/dasw.user.js
+// @supportURL   https://github.com/anosu/DontSpeakAbsWords-UserScript/issues
 // @match        *://*/*
 // @icon         https://project.midsummra.com/favicon.ico
 // @grant        GM_xmlhttpRequest
